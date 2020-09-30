@@ -1,1 +1,3 @@
-Please see .pdf Josh_Brnak_Capstone_Engagement for overview of this project
+The documents in this repository are summaries and overviews
+of work I performed to accomplish the Project 2 Capstone Engagement
+directives.
